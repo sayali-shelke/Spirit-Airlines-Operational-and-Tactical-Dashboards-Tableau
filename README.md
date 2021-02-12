@@ -1,6 +1,6 @@
 # Spirit-Airlines-Operational-and-Tactical-Dashboards-Tableau
 
-The Operational Dashboard aims at improving flight operations. [Link to the Tableau Public Dashboard.](https://public.tableau.com/profile/sayali.shelke#!/vizhome/Spirit_CFO_Financial_Dashboard_0422_final/Dashboard1)
+The Operational Dashboard aims at improving flight operations. [Link to the Tableau Public Dashboard.](https://public.tableau.com/profile/sayali.shelke#!/vizhome/Spirit2081_04151/SpiritAirlineOperationalDashboard)
 Following questions are answered by the Operational Dashboard :
 
 1. What is today’s total count of Spirit Airlines’ flights?
@@ -20,7 +20,7 @@ Following questions are answered by the Operational Dashboard :
 8. Are there any lost or mishandled bags at any of the airports? If yes, how many?
 
 The Tactical Dashboard aims at improving the company’s Revenue and customer satisfaction and is targeted to Financial Planning and Analysis (FP&A) team as required.
-[Link to the Tableau Public Dashboard.](https://public.tableau.com/profile/sayali.shelke#!/vizhome/Spirit2081_04151/SpiritAirlineOperationalDashboard)
+[Link to the Tableau Public Dashboard.](https://public.tableau.com/profile/sayali.shelke#!/vizhome/Spirit_CFO_Financial_Dashboard_0422_final/Dashboard1)
 Following questions are answered by the Tactical Dashboard :
 
 1. Revenue, Net Income and Shareholder Equity for the selected period.
